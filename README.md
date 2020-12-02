@@ -51,8 +51,10 @@ To have this app on your pc, you need to:
   ```
     https://github.com/javitocor/Information-and-Security.git
   ```
-
+#### Python projects
 * Access each folder from your terminal and run `python main.py`. 
+#### Express projects
+* In the root folder run `npm install` and then `npm start`. Go to [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Authors
 
