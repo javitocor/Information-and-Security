@@ -19,31 +19,37 @@
 [![Issues][issues-shield]][issues-url] 
 ![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/default/yes.svg) 
 
-# Scientific Computing with Python
+# Information and Security
 
->  5 Different projects to practice using Python.
-  > - Arithmetic Formatter: Format operations in old school style
-  > - Budget App: Keep track of the money you spend
-  > - Polygon Area Calculator: Calculate the are, perimeter and more of an square or rectangle
-  > - Probability Calculator: Calculate probabilities
-  > - Time Calculator: Given a time calculate when it will be in the future
+>  5 Different projects to practice with express security library helmet and python.
+  > - Port Scanner: Scan ports of a given url or IP. BUilt with Python
+  > - Stock Price Checker: Call an API to know the stock prices and get the people who likes it. Built with Express and Mongoose
+  > - SHA-1 Password Checker: Crack SHA-1 passowrd and hash them. Built with Python
+  > - Anonymous Message Board: Send your messages, always confidential. Built with Express
+  > - Secure Real Multiplayer Game: 'Kill the monster' a game built with Express, Socket.io and HTML Canvas
 
 Additional description about the project and its features.
 
 ## Built With
 
 - PYTHON
+- NODEJS
+- EXPRESSJS
+- HELMETJS
+- MONGOOSE 
+- HTML CANVAS  
+- SOCKET.IO
 
 ### Usage
 To have this app on your pc, you need to:
-* [download](https://github.com/javitocor/Computing-with-Python/archive/development.zip) or clone this repo:
+* [download](https://github.com/javitocor/Information-and-Security/archive/development.zip) or clone this repo:
   - Clone with SSH:
   ```
-    git@github.com:javitocor/Computing-with-Python.git
+    git@github.com:javitocor/Information-and-Security.git
   ```
   - Clone with HTTPS
   ```
-    https://github.com/javitocor/Computing-with-Python.git
+    https://github.com/javitocor/Information-and-Security.git
   ```
 
 * Access each folder from your terminal and run `python main.py`. 
@@ -60,7 +66,7 @@ To have this app on your pc, you need to:
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/javitocor/Computing-with-Python/issues).
+Feel free to check the [issues page](https://github.com/javitocor/Information-and-Security/issues).
 
 ## Show your support
 
@@ -71,6 +77,9 @@ Give a ⭐️ if you like this project!
 - FreeCodeCamp
 - Python Docs
 - Python for everyone course
+- Express docs
+- Socket.io docs
+- MDN - HTML Canvas tutorial
 
 ## 📝 License
 
@@ -78,11 +87,11 @@ This project is [MIT](lic.url) licensed.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/javitocor/Computing-with-Python.svg?style=flat-square
-[contributors-url]: https://github.com/javitocor/Computing-with-Python/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/javitocor/Computing-with-Python.svg?style=flat-square
-[forks-url]: https://github.com/javitocor/Computing-with-Python/network/members
-[stars-shield]: https://img.shields.io/github/stars/javitocor/Computing-with-Python.svg?style=flat-square
-[stars-url]: https://github.com/javitocor/Computing-with-Python/stargazers
-[issues-shield]: https://img.shields.io/github/issues/javitocor/Computing-with-Python.svg?style=flat-square
-[issues-url]: https://github.com/javitocor/Computing-with-Python/issues
+[contributors-shield]: https://img.shields.io/github/contributors/javitocor/Information-and-Security.svg?style=flat-square
+[contributors-url]: https://github.com/javitocor/Information-and-Security/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/javitocor/Information-and-Security.svg?style=flat-square
+[forks-url]: https://github.com/javitocor/Information-and-Security/network/members
+[stars-shield]: https://img.shields.io/github/stars/javitocor/Information-and-Security.svg?style=flat-square
+[stars-url]: https://github.com/javitocor/Information-and-Security/stargazers
+[issues-shield]: https://img.shields.io/github/issues/javitocor/Information-and-Security.svg?style=flat-square
+[issues-url]: https://github.com/javitocor/Information-and-Security/issues
